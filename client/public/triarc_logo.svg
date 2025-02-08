@@ -1,0 +1,17 @@
+<svg width="170" height="41" viewBox="0 0 170 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g class="light-mode">
+    <!-- Light Mode -->
+    <path d="M20,30 L40,12 L60,30 L53,30 L40,19 L27,30 Z" fill="#2B67B3"/>
+    <path d="M30,30 L40,22 L50,30 Z" fill="#1E4C8A"/>
+    <path d="M20,32 L60,32" stroke="#3C8DDB" stroke-width="2"/>
+    <text x="70" y="28" font-family="Arial" font-size="20" font-weight="bold" fill="#1E4C8A">TRIARC</text>
+  </g>
+  
+  <g class="dark-mode">
+    <!-- Dark Mode -->
+    <path d="M20,30 L40,12 L60,30 L53,30 L40,19 L27,30 Z" fill="#7CB9E8"/>
+    <path d="M30,30 L40,22 L50,30 Z" fill="#4B9BE0"/>
+    <path d="M20,32 L60,32" stroke="#B0E2FF" stroke-width="2"/>
+    <text x="70" y="28" font-family="Arial" font-size="20" font-weight="bold" fill="#4B9BE0">TRIARC</text>
+  </g>
+</svg>
